@@ -1,0 +1,7 @@
+<suite name="Test">
+    <test name ="All Functionalities">
+        <classes>
+            <class name="scripts.CarvanaTest"/>
+        </classes>
+    </test>
+</suite>
